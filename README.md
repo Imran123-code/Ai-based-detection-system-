@@ -20,8 +20,8 @@ Features
 
 Live Application
 
-Access the deployed app here:
-[Live App Link]((https://kstwg77yrzwcnh8tbnrccj.streamlit.app/))
+Access the deployed app here:  
+[Live App](https://your-streamlit-app-link)
 
 Author
 
