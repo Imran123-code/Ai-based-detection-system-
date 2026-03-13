@@ -1,4 +1,7 @@
-!pip install ultralytics
+import streamlit as st
+import numpy as np
+from ultralytics import YOLO
+from PIL import Image
 
 from ultralytics import YOLO
 from google.colab.output import eval_js
@@ -66,5 +69,6 @@ try:
     eval_js("window.stream.getTracks().forEach(track => track.stop())")
 except:
     pass
+
 
 
