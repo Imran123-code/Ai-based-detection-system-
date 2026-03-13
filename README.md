@@ -21,7 +21,7 @@ Features
 Live Application
 
 Access the deployed app here:
-[Live App Link]([YOUR_STREAMLIT_APP_LINK_HERE](https://kstwg77yrzwcnh8tbnrccj.streamlit.app/))
+[Live App Link]((https://kstwg77yrzwcnh8tbnrccj.streamlit.app/))
 
 Author
 
